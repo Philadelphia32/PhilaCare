@@ -16,6 +16,21 @@ AI-powered wellness assistant built with AWS PartyRock.
 - Generative AI
 - Prompt Engineering
 
+## 📸 Application Preview
+
+### 🏠 Home
+![Home](rpScreenshot%20(5).png)
+
+### 💬 AI Conversation
+![Chat](rpScreenshot%20(6).png)
+
+### 🤖 AI Response
+![Response](rpScreenshot%20(7).png)
+
+### 🌿 Wellness Suggestions
+![Wellness](rpScreenshot%20(8).png)
+
+## 🚀 Live Demo
 ## 🚀 Live Demo
 
 https://partyrock.aws/u/philadelphia32/bAlZcCKfh/MindCare%253A-Your-Compassionate-Support-Space
